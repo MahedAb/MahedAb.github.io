@@ -24,8 +24,8 @@ Publication
 
 • (Under review) M.M. Khalili, X. Zhang, M. Abroshan, I. Vakilinia, “Non-convex Optimization for Learning a Fair Predictor under Equalized Loss Fairness Constraint”
 
-• (Accepted) M. Abroshan *, G. Aminian *, M.M. Khalili, L. Toni, M. Rodrigues, “An Information Theory Approach to Semi-supervised Learning under Covariate-shift”, AISTAT 2022
-(* equal contribution)
+• (Accepted) M. Abroshan\*, G. Aminian\*, M.M. Khalili, L. Toni, M. Rodrigues, “An Information Theory Approach to Semi-supervised Learning under Covariate-shift”, AISTAT 2022
+(\* equal contribution)
 
 • M. Abroshan, K. Yip, C. Tekin, M. van der Schaar, “Conservative Policy Construction Using Variational Autoencoders for Logged Data with Missing Values” IEEE Transactions on Neural Networks and Learning Systems (2022)
 

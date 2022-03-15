@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a postdoctoral researcher at Alan Turing Institute working on trustworthy machine learning and applying ML in healthcare. My strong background in mathematics (demonstrated in my dual undergraduate degree and my success in national and international mathematics competition) along with my extensive experience in information theory, equipped me well for the research in machine learning. I am passionate about problem solving and research on fundamental problems with real-life impact.
 
-Please download my [CV here] (updated in January 2022)(http://mahedab.github.io/files/CV.pdf)
+[Please download my CV here (updated in January 2022)](http://mahedab.github.io/files/CV.pdf)
 
 Research
 ======

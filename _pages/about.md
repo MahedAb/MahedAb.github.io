@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Mahed Abroshan currently a postdoc at [Alan Turing Institute](https://www.turing.ac.uk/). My research topic is trustworthy machine learning (concepts like interpretability, fairness, privacy). In particular, I worked on applying ML in healthcare (where trustworthiness is a must). I did my PhD at [Cambridge](http://www.eng.cam.ac.uk/research/academic-divisions/information-engineering/research-groups/signal-processing-and) working on a problem in information theory (insertion/deletion channels). In general I am passionate about problem solving and research on fundamental problems with real-life impact, for which my background in math is very useful (e.g. I was in math competition business when I was younger).
+I am Mahed Abroshan currently a postdoc at [Alan Turing Institute](https://www.turing.ac.uk/). My research topic is trustworthy machine learning (concepts like interpretability, fairness, and privacy). In particular, I worked on applying ML in healthcare (where trustworthiness is a must). I did my PhD at [Cambridge](http://www.eng.cam.ac.uk/research/academic-divisions/information-engineering/research-groups/signal-processing-and) working on a problem in information theory (insertion/deletion channels). In general I am passionate about problem solving and research on fundamental problems with real-life impact, for which my background in math is very useful (e.g. I was in math competition business when I was younger).
 
 [Please download my CV here (updated in January 2022)](http://mahedab.github.io/files/CV.pdf)
 

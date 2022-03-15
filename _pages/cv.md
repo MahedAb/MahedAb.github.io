@@ -1,7 +1,7 @@
 
 
 
-[Please download CV here (updated in January 2022)](http://mahedab.github.io/files/CV.pdf)
+[Please download my CV here (updated in January 2022)](http://mahedab.github.io/files/CV.pdf)
 
 ---
 layout: archive

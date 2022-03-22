@@ -14,7 +14,7 @@ I am Mahed Abroshan currently a postdoc at [Alan Turing Institute](https://www.t
 
 Research
 ======
-I recently joined FAIR project at Turing working on responsible AI and in particular on synthetic data generation. 
+I recently joined [FAIR](https://www.turing.ac.uk/research/research-projects/project-fair-framework-responsible-adoption-artificial-intelligence) project at Turing working on responsible AI and in particular on synthetic data generation. 
 
 Before that, I was part of the Learning Machine project working on the deployment of machine learning in high-stake applications like healthcare and the criminal justice system. We were particularly focused on monitoring the model for use for a long period (looking for different sorts of drifts). I was working with a group of research engineers and my role was helping with the design and implementation of the model. We have worked on a few datasets including the SEER dataset (for cancer research) and ADNI dataset (Alzheimer's disease). We have also collaborated with clinicians in our projects. I have worked on several problems related to the learning machine project including interpretability, fairness and privacy, and semi-supervised learning with covariate shift (see publications). 
 
